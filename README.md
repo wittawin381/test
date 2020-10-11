@@ -1,6 +1,6 @@
 # VocabBattle
 ### สิ่งที่ต้องทำ(ถ้าคิดว่าขาดอะไรก็เพื่มเลยนะ):
-   ```
+   ```+
     -register
     -login/logout
     -profile
